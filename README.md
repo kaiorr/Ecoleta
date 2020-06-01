@@ -10,8 +10,6 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/kaiorr/Ecoleta?style=plastic">
 
-  <img alt="Security Headers" src="https://img.shields.io/security-headers?url=https%3A%2F%2Fgithub.com%2Fkaiorr%2FEcoleta">
-
   <a href="https://www.linkedin.com/in/kaio-ribeiro-310123150/"> 
     <img alt="Made by Kaio" src="https://img.shields.io/badge/made%20by-kaiorr-%2304D361">
   </a>
