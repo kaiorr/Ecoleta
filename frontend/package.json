@@ -43,6 +43,6 @@
   "devDependencies": {
     "@types/react-leaflet": "^2.5.2",
     "@types/react-router-dom": "^5.1.5",
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   }
 }
